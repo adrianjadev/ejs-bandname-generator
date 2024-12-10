@@ -2,4 +2,4 @@
 
 -----
 
-![Sample use-case]()
+![Sample use-case](ejs-bandname-generator.gif)
