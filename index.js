@@ -28,7 +28,7 @@ app.post("/submit", (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`Listening on port ${port}`);
+  console.log(`Listening on port ${PORT}`);
 });
 
 const adj = [
